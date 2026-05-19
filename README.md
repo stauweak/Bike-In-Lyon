@@ -8,18 +8,43 @@ Deuxièmement, de manière annuelle avec l'organisation d'un événement cyclist
 
 ## Le club
 
+### Les activités
+
+- Vélo école
+  - Circulation en ville pour les déplacements quotidien en vélo
+  - Circulation seul et en groupe pour les cyclosportifves
+- Organisation de sorties en groupe
+  - Initier au traçage de parcours
+  - Bike Packing
+  - Découverte des lieux notables dans les environs
+- Participation à des événements sportifs
+  - Découverte des courses cyclosportives
+  - Accompagnement sur des courses FFC ou FSGT 
 - Fournir des vélos aux personnes qui veulent découvrir le vélo
-- Apprendre à rouler sur la route seul et en groupe
 - Apprendre à entretenir son matériel
-- Faire découvrir les événements Cycliste
-- Faire découvrir les environs 
-- Initier au traçage de parcours
-- Bike packing
+
+### Objectif du club
+
+- Initier qui le veut à l'usage du vélo pour les rendre autonome dans leur quotidien en ville 
+- Initier qui le veut au sport cycliste dans le but que les personnes se sentent à l'aise de rejoindre d'autres groupes 
+- Accompagner les jeunes qui veulent continuer à pratiquer le cyclisme mais qui n'ont plus de club avec lequel rouler
+  - à confirmer de si c'est vraiment le cas mais l'offre de clubs cyclistes pour les adolescents et jeunes adultres à l'air très orienté compétition de haut niveau
+- Mettre en avant le partage des valeurs, des connaissances et des expériences entre les membres
+
+
+### Existant
+
+[La Vélo-école de la métropole](https://maisonduvelolyon.org/la-velo-ecole-de-la-metropole-continue-et-se-deploie/)
+
+
 
 ## Le Bike In Lyon
+
+### Les activités
 
 - Course Cyclosportive dans Lyon en passant par les plus beaux points de vue de la ville avec plusieurs options de parcours (90, 50 et 30 km)
 - Un village avec des stands ayant pour but d'apprendre des choses importantes sur la pratique du vélo
 - Des ateliers pour apprendre à faire du vélo
 - Des conférences sur la mobilité douce et sur les acteurs du vélo dans la région
+- Organistion d'un Alleycat 
 
