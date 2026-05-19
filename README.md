@@ -62,3 +62,7 @@ Deuxièmement, de manière annuelle avec l'organisation d'un événement cyclist
 - La ville ?
 - Chercheurs ?
 - Associations
+
+## Proposition de valeur
+
+Donner une place à ceux qui pratiquent ou veulent découvrir le vélo dans ces différentes formes à Lyon dans un contexte serein, bienveillant et inclusif.
