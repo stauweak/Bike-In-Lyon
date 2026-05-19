@@ -31,11 +31,20 @@ Deuxièmement, de manière annuelle avec l'organisation d'un événement cyclist
   - à confirmer de si c'est vraiment le cas mais l'offre de clubs cyclistes pour les adolescents et jeunes adultres à l'air très orienté compétition de haut niveau
 - Mettre en avant le partage des valeurs, des connaissances et des expériences entre les membres
 
-
 ### Existant
 
 [La Vélo-école de la métropole](https://maisonduvelolyon.org/la-velo-ecole-de-la-metropole-continue-et-se-deploie/)
 
+### Besoins
+
+- Matériel
+  - Vélos
+  - Outils
+  - Pièces détachées
+- Encadrants
+  - Pilotage
+  - Mécanique
+- Administratif
 
 
 ## Le Bike In Lyon
@@ -48,3 +57,8 @@ Deuxièmement, de manière annuelle avec l'organisation d'un événement cyclist
 - Des conférences sur la mobilité douce et sur les acteurs du vélo dans la région
 - Organistion d'un Alleycat 
 
+### Acteurs
+- Métrople ?
+- La ville ?
+- Chercheurs ?
+- Associations
