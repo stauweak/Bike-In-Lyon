@@ -1,0 +1,8 @@
+- Comment trouver du matériel pour facilité permettre la découverte du vélo ?
+- Comment trouver des personnes pour encadrer des activités sportives avec des jeunes et des moins jeunes ?
+- Comment monter l'association ?
+  - Est-ce qu'il n'existe pas déjà des projets similaires ?
+  - Sinon, est-ce que l'association serait le bon format ?
+- Comment organiser un événement dans Lyon pendant lequel la circulation serait bouclée ?
+- Comment trouver des gens qui ont des choses intéressantes à dire sur le vélo, la mobilité douce, la sécurité ou l'impacte de des autres modes de mobilité ?
+- 
