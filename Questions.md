@@ -1,5 +1,6 @@
-- Comment trouver du matériel pour facilité permettre la découverte du vélo ?
+- Comment trouver du matériel pour facilité/permettre la découverte du vélo ?
 - Comment trouver des personnes pour encadrer des activités sportives avec des jeunes et des moins jeunes ?
+  - BAFA obligatoire ?  
 - Comment monter l'association ?
   - Est-ce qu'il n'existe pas déjà des projets similaires ?
   - Sinon, est-ce que l'association serait le bon format ?
